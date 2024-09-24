@@ -1,7 +1,7 @@
 # Hu et al., 2024 - Nature
 
 This readme provides a brief description of replicating an example of
-the analysis included in the 2025 Nature paper by Hu et al. using a
+the analysis included in the 2024 Nature paper by Hu et al. using a
 development version of the `rtmsEcho` package.
 
 ### Package Installation
